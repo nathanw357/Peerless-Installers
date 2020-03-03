@@ -1,8 +1,5 @@
-package com.vinaysomawat.careerhigh;
+package com.n2media.peerlessinstallers;
 
-/**
- * Created by Vinay Somawat on 10-01-2019.
- */
 import android.content.Intent;
 import android.os.Bundle;
 import android.support.annotation.Nullable;

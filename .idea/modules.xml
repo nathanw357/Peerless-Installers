@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/CareerHigh.iml" filepath="$PROJECT_DIR$/CareerHigh.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Peerless-Installers.iml" filepath="$PROJECT_DIR$/Peerless-Installers.iml" group="Peerless-Installers" />
+      <module fileurl="file://$PROJECT_DIR$/app/Peerless-Installers-app.iml" filepath="$PROJECT_DIR$/app/Peerless-Installers-app.iml" group="Peerless-Installers/app" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>

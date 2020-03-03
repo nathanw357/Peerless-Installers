@@ -1,4 +1,4 @@
-package com.vinaysomawat.careerhigh;
+package com.n2media.peerlessinstallers;
 
 import org.junit.Test;
 
